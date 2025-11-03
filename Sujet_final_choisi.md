@@ -1,0 +1,4 @@
+- **Titre du Projet :** Marketplace Blockchain de Revente de Billets Mondial 2030
+- **Description :** Une place de marché décentralisée permettant aux fans du Mondial 2030 (Maroc - Portugal - Espagne) d’acheter et de revendre leurs billets de manière sécurisée, transparente et vérifiable grâce à la Blockchain. Chaque transaction est enregistrée sur un registre distribué, empêchant la revente frauduleuse ou la duplication de billets. La plateforme intègre également un système de notation pour les vendeurs, une vérification automatique de l’authenticité des billets, et un smart contract gérant la transaction entre acheteur et vendeur sans intermédiaire.
+- **Technologies Suggérées :** Solidity (Smart Contracts), Ethereum , Polygon, Web3.js, React.js, Node.js , NestJS, IPFS pour stockage
+- **Thèmes Principaux :** Billetterie Mondial 2030, Blockchain & Smart Contracts, Lutte contre la fraude, Économie décentralisée Web3
