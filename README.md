@@ -84,6 +84,7 @@ Plafond automatique de revente à 120% du prix initial pour empêcher la spécul
 
 ## 🏗 Architecture technique
 
+```
 ┌────────────────────────────┐
 │   Utilisateur (Client)     │
 │    🧍 via Navigateur       │
@@ -112,6 +113,8 @@ Plafond automatique de revente à 120% du prix initial pour empêcher la spécul
 │ - Smart Contracts │  │  - Billets, logs   │
 │ - NFT, ventes     │  │  - QR codes, users │
 └───────────────────┘  └────────────────────┘
+```
+
 
 ### Composants principaux
 
@@ -253,9 +256,6 @@ event ListingCanceled(uint256 tokenId, address seller);
 
 <div align="center">
 
-**⚡ Fait avec passion pour le Mondial 2030 ⚽🌍**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-</div>
+
